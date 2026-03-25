@@ -1,16 +1,30 @@
-## Hi there 👋
+# Tomas Jonmundsson
 
-<!--
-**tomas-jonmundsson/tomas-jonmundsson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Bachelor of Engineering Honours (Biomedical Engineering) | University of Sydney**
 
-Here are some ideas to get you started:
+I'm a third-year biomedical engineering student with hands-on experience across hardware, software, and clinical research environments. My work spans embedded systems, machine learning, medical device development, and computational analysis — often in collaboration with clinical partners including Westmead Hospital.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Featured Projects
+
+| Project | Area | Year |
+|---|---|---|
+| [FPGA Multi-Electrode Array – Cardiac Organoid Imaging](#) | Hardware / FPGA | 2025 |
+| [CT Perfusion Motion Correction](#) | Computational / MATLAB | 2026 |
+| [MATLAB Apnoea Detection Model](#) | Machine Learning | 2025 |
+| [Diabetes-Predicting AI Model](#) | Machine Learning | 2025 |
+| [PPG Heart Rate Monitor with GUI](#) | Hardware / Python | 2024 |
+| [Maze-Solving Robot](#) | Embedded Systems / C++ | 2024 |
+| [AI Health Learning Game](#) | Unity3D / AI | 2024 |
+
+---
+
+## Skills
+
+`C++` `Python` `MATLAB` `Unity3D` `FPGA` `KiCad` `SolidWorks` `Fusion 360` `Arduino`
+
+---
+
+📍 Sydney, Australia
+📧 tjon9547@uni.sydney.edu.au
