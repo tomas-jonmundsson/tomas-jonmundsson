@@ -27,5 +27,5 @@ I'm a third-year biomedical engineering student with hands-on experience across 
 
 ---
 
-📍 Sydney, Australia  
-📧 tomasjonmundsson1@gmail.com
+Location: Sydney, Australia  
+Email: tomasjonmundsson1@gmail.com
