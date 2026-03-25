@@ -1,6 +1,6 @@
 # Tomas Jonmundsson
 
-**Biomedical Engineering (Honours) | University of Sydney**
+**Bachelor of Engineering Honours (Biomedical Engineering) | University of Sydney**
 
 I'm a third-year biomedical engineering student with hands-on experience across hardware, software, and clinical research environments. My work spans embedded systems, machine learning, medical device development, and computational analysis — often in collaboration with clinical partners including Westmead Hospital.
 
