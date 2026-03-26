@@ -2,7 +2,7 @@
 
 **Bachelor of Engineering Honours (Biomedical Engineering) | University of Sydney**
 
-I'm a third-year biomedical engineering student with hands-on experience across hardware, software, and clinical research environments. My work spans embedded systems, machine learning, medical device development, and computational analysis — often in collaboration with clinical partners including Westmead Hospital.
+I am a fourth-year Biomedical Engineering Honours student at the University of Sydney, specialising in Biocomputation. My projects range from hardware design and machine learning models to medical devices and clinical data analysis tools, build through hands-on roles alongside professional engineering and clinical teams at Westmead Hospital, GenesisCare, and Cerebral Palsy Alliance. 
 
 ---
 
@@ -23,7 +23,7 @@ I'm a third-year biomedical engineering student with hands-on experience across 
 
 ## Skills
 
-`C++` `Python` `MATLAB` `Unity3D` `FPGA` `KiCad` `SolidWorks` `Fusion 360` `Arduino`
+`C++` `Python` `MATLAB` `IDL` `Unity3D` `FPGA` `KiCad` `SolidWorks` `Fusion 360` `Arduino` `Data Analysis` `Project Management`
 
 ---
 
